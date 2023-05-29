@@ -277,7 +277,7 @@ body {
         height: 100vh;
         display: block;
         flex-direction: column;
-        background-color: #202020;
+        /* background-color: #202020; */
     }
     .page{
         padding: 0;
